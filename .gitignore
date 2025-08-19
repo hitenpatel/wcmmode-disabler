@@ -1,0 +1,17 @@
+# Development files
+.DS_Store
+*.log
+node_modules/
+
+# Chrome extension packaging
+*.pem
+*.crx
+*.zip
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
