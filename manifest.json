@@ -3,6 +3,7 @@
   "name": "WCM Mode Disabler",
   "version": "1.0.0",
   "description": "Automatically adds '?wcmmode=disabled' to Adobe Experience Manager (AEM) URLs to disable WCM authoring mode for better performance and testing.",
+  "homepage_url": "https://github.com/hitenpatel/wcmmode-disabler",
   "author": "Hiten Patel",
   "permissions": ["declarativeNetRequest", "storage"],
   "host_permissions": ["<all_urls>"],
